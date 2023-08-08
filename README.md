@@ -13,6 +13,6 @@ Meu primeiro portfólio  desenvolvido com os cursos HTML e CSS do Alura
 
 ## Feito por:
 
-### Joana Santos
+### Stephane Semiota
 
 ### Linkedin: https://www.linkedin.com/in/stephane-fonseca-925225222/
